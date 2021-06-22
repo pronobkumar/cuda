@@ -1,0 +1,83 @@
+@media screen and (max-width:1024px) {
+
+    #home {
+        height: 65vh;
+    }
+
+}
+@media screen and (max-width:1024px) {
+    
+    .row{
+        margin: 0 15px;
+    }
+    html{
+        font-size: 57.5%;
+    }
+    .t-img{
+        float: none;
+    }
+    .reviwe {
+        float: none;
+        width: 100%;
+        text-align: center;
+        margin-left:0;
+    }
+
+    #contact form {
+        margin-top: 3rem;
+        width: 100%;
+        margin-left:0;
+    }    
+}
+@media screen and (max-width:980px) {
+
+    .span_1_of_4 {
+        width: 49.2%;
+        margin: 0;
+    }
+
+    html {
+        font-size: 62.5%;
+    }
+    .head-text-box {
+        top: 60%;
+    }
+    .nav-bar{
+        display: none;
+    }
+    #footer ul li a {
+        font-size: 1.5rem;
+    }
+    #home img {
+
+        margin-top: .5rem;
+
+    }
+    .mobile-menu span{
+        display: block;
+    }
+}
+@media screen and (max-width:768px) {
+
+h2 {
+    font-size: 3rem;
+}
+
+h3{
+    font-size: 2rem;
+}
+
+}
+
+@media screen and (max-width:480px) {
+
+    .span_1_of_4 {
+        width: 100%;
+        
+    }
+    .portfolio-filter .row {
+        margin: 0;
+    }
+
+
+}
